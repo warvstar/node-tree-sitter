@@ -63,7 +63,7 @@
         "vendor/tree-sitter/lib/include",
       ],
       "cflags": [
-        "-std=c11"
+        "-std=c17"
       ],
       "defines": [
         "_POSIX_C_SOURCE=200112L",
